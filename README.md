@@ -1,4 +1,4 @@
-## Olá, meu nome é Lucas Duarte
+## Olá, meu nome é Lucas Duarte!
  <div>
   <a href="https://github.com/lucsduartee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsduartee&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
