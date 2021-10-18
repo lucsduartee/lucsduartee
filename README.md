@@ -16,9 +16,15 @@
   - :computer: 	Estudante de Desenvolvimento Web Fullstack.
   - :man_student:	 Graduando em Física Bacharelado - UNESP.
   - :office:	 Membro Voluntário do ramo estudantil IEEE Computer Society.
-  - :technologist:	 Techs: HTML, CSS, JavaScript, Git, Unit Tests Jest, React, React Testing Library, Redux ... e sempre aprendendo novas tecnologias! 🚀
+  - :technologist:	 Techs: HTML, CSS, JavaScript, Git, Unit Tests Jest, React, React Testing Library, Redux ... em busca de novos aprendizados! 🚀
   - :desert_island:  Hobbies: Ouvir música, tocar violão, assistir filmes e séries, passar tempo com pessoas, estudar.
  
+ ### :mailbox_with_mail:	Contato
+ 
+  - **Email**: lucs.rkt@gmail.com
+  - **LinkedIn**: https://www.linkedin.com/in/dev-lucasduarte/
+
+
  #### :books: Meus projetos HTML & CSS
  
  #### :books: Meus projetos Javacript
