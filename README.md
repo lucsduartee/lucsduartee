@@ -21,8 +21,8 @@
  
  ### :mailbox_with_mail:	Contato
  
-  - **Email**: lucs.rkt@gmail.com
-  - **LinkedIn**: https://www.linkedin.com/in/dev-lucasduarte/
+ - **Email**: lucs.rkt@gmail.com
+ - **LinkedIn**: https://www.linkedin.com/in/dev-lucasduarte/
 
 
  #### :books: Meus projetos HTML & CSS
