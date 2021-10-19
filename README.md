@@ -26,7 +26,7 @@
 
 
  #### :books: Meus projetos HTML & CSS
- 
+ - [lucsduartee/trybewarts](https://github.com/lucsduartee/trybewarts) - HTML e CSS
  #### :books: Meus projetos Javacript
  
  #### :books: Meus projetos React
