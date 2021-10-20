@@ -26,11 +26,13 @@
 
 
  #### :books: Meus projetos HTML & CSS
- - [lucsduartee/trybewarts](https://github.com/lucsduartee/trybewarts) - HTML e CSS
+ - [lucsduartee/trybewarts](https://github.com/lucsduartee/trybewarts)
  - [lucsduartee/projetoCodar](https://github.com/lucsduartee/projeto_Codar)
  - [lucsduartee/amazingGraphs](https://github.com/lucsduartee/amazing-graphs)
 
  #### :books: Meus projetos Javacript
+ - [lucsduartee/nlwOrigin](https://github.com/lucsduartee/projetoNlwOrigin)
+ - [lucsduartee/nlwDiscover](https://github.com/lucsduartee/nlwDiscover)
  
  #### :books: Meus projetos React
  
