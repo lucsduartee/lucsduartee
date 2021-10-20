@@ -27,6 +27,9 @@
 
  #### :books: Meus projetos HTML & CSS
  - [lucsduartee/trybewarts](https://github.com/lucsduartee/trybewarts) - HTML e CSS
+ - [lucsduartee/projetoCodar](https://github.com/lucsduartee/projeto_Codar)
+ - [lucsduartee/amazingGraphs](https://github.com/lucsduartee/amazing-graphs)
+
  #### :books: Meus projetos Javacript
  
  #### :books: Meus projetos React
