@@ -35,5 +35,13 @@
  - [lucsduartee/nlwDiscover](https://github.com/lucsduartee/nlwDiscover)
  
  #### :books: Meus projetos React
+ - [lucsduartee/recipes-app](https://github.com/lucsduartee/recipes-app)
+ - [lucsduartee/e-commerceCS](https://github.com/lucsduartee/e-commerceCS)
+ - [lucsduartee/trybetunes](https://github.com/lucsduartee/trybetunes)
+ - [lucsduartee/starwars-search-planet](https://github.com/lucsduartee/starwars-search-planet)
  
  #### :books: Meus projetos Node
+ - [lucsduartee/trybesmith](https://github.com/lucsduartee/trybesmith) Typescript|API
+ - [lucsduartee/talker-manager-api](https://github.com/lucsduartee/talker-manager-api)
+ - [lucsduartee/store-manager](https://github.com/lucsduartee/store-manager)
+ 
