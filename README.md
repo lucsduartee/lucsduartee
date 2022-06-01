@@ -30,10 +30,6 @@
  - [lucsduartee/projetoCodar](https://github.com/lucsduartee/projeto_Codar)
  - [lucsduartee/amazingGraphs](https://github.com/lucsduartee/amazing-graphs)
 
- #### :books: Meus projetos Javacript
- - [lucsduartee/nlwOrigin](https://github.com/lucsduartee/projetoNlwOrigin)
- - [lucsduartee/nlwDiscover](https://github.com/lucsduartee/nlwDiscover)
- 
  #### :books: Meus projetos React
  - [lucsduartee/recipes-app](https://github.com/lucsduartee/recipes-app)
  - [lucsduartee/e-commerceCS](https://github.com/lucsduartee/e-commerceCS)
