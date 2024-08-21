@@ -13,10 +13,9 @@
  
  ### :man: Quem sou eu
  
-  - :computer: 	Estudante de Desenvolvimento Web Fullstack.
+  - :computer: Desenvolvimento Web Fullstack.
   - :man_student:	 Graduando em Física Bacharelado - UNESP.
-  - :office:	 Membro Voluntário do ramo estudantil IEEE Computer Society.
-  - :technologist:	 Techs: HTML, CSS, JavaScript, Git, Unit Tests Jest, React, React Testing Library, Redux ... em busca de novos aprendizados! 🚀
+  - :technologist:	 Techs: JavaScript & Typescript, VueJs, ReactJS, Git, Testes Unitários, Ruby on Rails, Postgres
  
  ### :mailbox_with_mail:	Contato
  
